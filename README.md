@@ -21,6 +21,9 @@ This project builds a full pipeline for **predicting 12-month Customer Lifetime 
 > **Author**: _Sushil Kumar Patra, Data Science Intern_
 
 ---
+![InterFace](assets/img(6).jpg)
+
+---
 
 ## Project Summary
 
@@ -60,7 +63,6 @@ _Screenshots Available in `assets/`_
 
 [Click here to use the deployed app](https://your-app-url)
 
-![InterFace](assets/img(6).jpg)
 ![History Tracker](assets/img(2).png)
 
 ---
