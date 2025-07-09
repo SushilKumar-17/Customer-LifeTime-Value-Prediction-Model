@@ -21,9 +21,6 @@ This project builds a full pipeline for **predicting 12-month Customer Lifetime 
 > **Author**: _Sushil Kumar Patra, Data Science Intern_
 
 ---
-![InterFace](assets/img(6).jpg)
-
----
 
 ## Project Summary
 
@@ -37,6 +34,10 @@ The original dataset comes from the **Online Retail II** repository, containing 
 > - The final deployed model initially achieved an **R² of 0.75**, but after addressing overfitting and improving generalization, it consistently reached an **R² of 0.63** on validation.
 > - This performance is notably strong given the raw, behavior-only dataset with no demographic or external enrichment.
 > - The outcome reflects a **robust, scalable, and industry-aligned** CLV prediction system ready for real-world deployment.
+
+![InterFace](assets/img(6).jpg)
+
+[Click here to use the deployed app](https://customer-lifetime-value-prediction-model-wwq5m8hwz3vyphgpph6wf.streamlit.app/)
 
 **Business Insight**
 > An interactive **Power BI dashboard** was also created to visually explore key customer metrics, behavior patterns, and trends. It complements the model by offering real-time insights for stakeholders and decision-makers.
@@ -61,9 +62,8 @@ Features include:
 
 _Screenshots Available in `assets/`_
 
-[Click here to use the deployed app](https://your-app-url)
 
-![History Tracker](assets/img(2).png)
+![History Tracker](assets/img(3).png)
 
 ---
 
@@ -97,4 +97,4 @@ _Screenshots Available in `assets/`_
 This project represents a complete and scalable solution for CLV prediction using only transactional logs — without relying on sensitive or unavailable customer attributes. It demonstrates strong data understanding, model interpretability, and full-cycle deployment.
 
 > **Built by**: Sushil Kumar Patra  
-> **CSI_ID**: CT_CSI_DS_2794<br> > **Internship**: Celebal Summer Internship – Data Science Track
+> **CSI_ID**: CT_CSI_DS_2794<br> **Internship**: Celebal Summer Internship – Data Science Track
