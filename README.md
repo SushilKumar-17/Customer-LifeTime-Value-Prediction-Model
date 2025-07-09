@@ -12,7 +12,7 @@
 
 
 
-# Customer Lifetime Value (CLV) Prediction System
+# Customer Lifetime Value (CLV) Prediction
 
 This project builds a full pipeline for **predicting 12-month Customer Lifetime Value (CLV)** using raw e-commerce transactional data. From data cleaning and feature engineering to model selection and deployment via a custom Streamlit dashboard, every step has been executed with industry standards in mind.
 
