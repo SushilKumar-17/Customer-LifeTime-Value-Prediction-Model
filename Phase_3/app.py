@@ -21,8 +21,12 @@ from datetime import datetime, timedelta
 # Load model and selected features
 @st.cache_resource
 def load_model_and_features():
-    model = joblib.load("xgb_clv_model.pkl")
-    with open("selected_features.json", "r") as f:
+    base_path = os.path.dirname(__file__)  # Gets the directory where app.py is
+    model_path = os.path.join(base_path, "xgb_clv_model.pkl")
+    features_path = os.path.join(base_path, "selected_features.json")
+
+    model = joblib.load(model_path)
+    with open(features_path, "r") as f:
         selected_features = json.load(f)
     return model, selected_features
 
