@@ -29,7 +29,11 @@ The original dataset comes from the **Online Retail II** repository, containing 
 > - This performance is notably strong given the raw, behavior-only dataset with no demographic or external enrichment.
 > - The outcome reflects a **robust, scalable, and industry-aligned** CLV prediction system ready for real-world deployment.
 
-<img src="assets/img(5).png" alt="App" width="600"/>
+**Business Insight**
+> An interactive **Power BI dashboard** was also created to visually explore key customer metrics, behavior patterns, and trends. It complements the model by offering real-time insights for stakeholders and decision-makers.
+
+
+<img src="assets/img(7).png" alt="Business Insights"/>
 
 
 ---
@@ -50,7 +54,7 @@ _Screenshots Available in `assets/`_
 
 [Click here to use the deployed app](https://your-app-url)
 
-![InterFace](assets/img(3).png)
+![InterFace](assets/img(6).jpg)
 ![History Tracker](assets/img(2).png)
 
 ---
