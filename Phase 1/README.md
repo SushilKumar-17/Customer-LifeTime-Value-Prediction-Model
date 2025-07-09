@@ -82,15 +82,6 @@ You may consider adding visual assets here to further illustrate the following:
 
 ![Merging Data Process](assets/flow.png)
 
-## Files in Phase 1
-
-| File Name               | Description                         |
-| ----------------------- | ----------------------------------- |
-| `online_retail_II.csv`  | Original dataset                    |
-| `customer_features.csv` | Final customer features from Year 1 |
-| `clv_labels.csv`        | Processed usefull data              |
-| `CLV_Notes.pdf`         | Data Assessing and logical analysis |
-
 ## Key Achievements
 
 - Cleaned and segmented the raw transactional data into customer-level metrics.
