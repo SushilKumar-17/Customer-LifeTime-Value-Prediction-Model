@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="assets/python.png" alt="Python" width="60"/>
-  <img src="assets/pandas.png" alt="Pandas" width="60"/>
-  <img src="assets/xgboost.png" alt="XGBoost" width="60"/>
-  <img src="assets/streamlit.png" alt="Streamlit" width="60"/>
-  <img src="assets/scikit-learn.png" alt="scikit-learn" width="60"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+
+
 
 # Customer Lifetime Value (CLV) Prediction System
 
