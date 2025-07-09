@@ -22,6 +22,9 @@ This project builds a full pipeline for **predicting 12-month Customer Lifetime 
 
 ---
 
+**Wants to Try:**
+[Click here to use the deployed app](https://customer-lifetime-value-prediction-model-wwq5m8hwz3vyphgpph6wf.streamlit.app/)
+
 ## Project Summary
 
 The original dataset comes from the **Online Retail II** repository, containing over **1 million raw transactional records** from **two years (2009–2011)**. The challenge was to:

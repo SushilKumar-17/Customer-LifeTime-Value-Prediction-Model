@@ -37,7 +37,7 @@ The app predicts a customer's **12-month CLV** using real-time inputs. It accept
 ![Customer LifeTime Value Prediction](<assets/img(4).png>)
 
 **Wants to Try:**
-[Click here to use the deployed app](https://your-streamlit-app-url)
+[Click here to use the deployed app](https://customer-lifetime-value-prediction-model-wwq5m8hwz3vyphgpph6wf.streamlit.app/)
 
 ### Key Modules
 
