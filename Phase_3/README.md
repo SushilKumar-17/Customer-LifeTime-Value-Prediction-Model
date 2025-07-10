@@ -14,9 +14,9 @@ After detailed analysis and testing, the XGBoost model was selected due to its c
 
 ```text
 XGBoost Regressor Performance:
-MAE:   1612.47
-RMSE:  6751.47
-R²:    0.54
+MAE:  1440.9326968717626
+RMSE: 5659.7085882501315
+R²:   0.6348780011120024 --> (63% Explainable)
 ```
 
 > These scores reflect a well-generalized regressor built on composite features derived from raw transactional data.
