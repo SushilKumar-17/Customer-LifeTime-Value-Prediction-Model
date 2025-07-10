@@ -34,7 +34,7 @@ The original dataset comes from the **Online Retail II** repository, containing 
 - Train and tune models to **accurately predict CLV**
 - Deploy a user-friendly **Streamlit application** that performs real-time predictions and business insights
 
-> - The final deployed model initially achieved an **R² of 0.75**, but after addressing overfitting and improving generalization, it consistently reached an **R² of 0.63**, while **R² 0.59** explainability on validation scorre.
+> - The final deployed model initially achieved an **R² of 0.75**, but after addressing overfitting and improving generalization, it consistently reached an **R² of 0.63**, while **R² 0.59** explainability on validation score.
 > - This performance is notably strong given the raw, behavior-only dataset with no demographic or external enrichment.
 > - The outcome reflects a **robust, scalable, and industry-aligned** CLV prediction system ready for real-world deployment.
 
