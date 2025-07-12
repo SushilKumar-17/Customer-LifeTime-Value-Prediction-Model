@@ -74,7 +74,7 @@ After empirical testing and modeling, a refined set of features was derived:
 
 ---
 
-### 📘 `CLTV_Modeling_3.ipynb` – Tree Models & Custom Feature Refinement
+### `CLTV_Modeling_3.ipynb` – Tree Models & Custom Feature Refinement
 
 This notebook marked the **turning point** of the modeling process:
 
